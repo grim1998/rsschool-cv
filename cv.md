@@ -41,3 +41,7 @@ My main goal is to gain new skills and knowledge in order to become a strong for
 * Udemy: Javascript
 * Code Basics
 * Javascript.ru
+## Language
+* English - NoN
+* Russian - Native
+* Belarus - Native
