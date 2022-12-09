@@ -37,3 +37,7 @@ My main goal is to gain new skills and knowledge in order to become a strong for
 ## Education
 * University: Pinsk "PGATK"
 * Specialty: Veterinarian
+## Courses:
+* Udemy: Javascript
+* Code Basics
+* Javascript.ru
