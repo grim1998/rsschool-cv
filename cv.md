@@ -44,4 +44,4 @@ My main goal is to gain new skills and knowledge in order to become a strong for
 ## Language
 * English - NoN.
 * Russian - Native.
-* Belarus - Native
+* Belarus - Native.
