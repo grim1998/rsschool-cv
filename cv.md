@@ -40,7 +40,7 @@ My main goal is to gain new skills and knowledge in order to become a strong for
 ## Courses:
 * Udemy: Javascript
 * Code Basics
-* Javascript.ru
+* Javascript
 ## Language
 * English - NoN.
 * Russian - Native.
