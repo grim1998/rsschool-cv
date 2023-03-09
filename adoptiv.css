@@ -1,0 +1,9 @@
+@media (max-max-width: 768px) {
+    .section {
+      max-width: 100%;
+    }
+  }
+
+*{
+  display: inline;
+}
