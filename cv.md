@@ -42,6 +42,6 @@ My main goal is to gain new skills and knowledge in order to become a strong for
 * Code Basics
 * Javascript.ru
 ## Language
-* English - NoN
+* English - NoN.
 * Russian - Native
 * Belarus - Native
